@@ -2,4 +2,4 @@
 #A-Frames #VRmode
 
 
-https://yashbajoria.github.io/Web_VR/
+https://yashbajoria.github.io/WebVR/
